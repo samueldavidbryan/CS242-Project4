@@ -1,0 +1,22 @@
+Sam Bryan
+Project 4 Log
+
+1. The hardest part was understanding what each part of the code was trying to accomplish. Once I understood this, the coding came much easier. It was hard to keep track of so many lefts and rights though even still!
+
+2. I did not keep an accurate log of the amount of time I spent on this, but I easily spent 15 hours. My guess would be somewhere in the 20-30 hours range.
+
+3. The outputs matched my expectations for the most part. When I scrolled to the bottom of the AVL output, I noticed some of them were in a different order. The first several were in the right order, but not all of them were as I scrolled.
+
+To be honest, the surprise was that after I got BST, I got the height, min, max right every time when I was able to get the output. I was even surprised that I got it in the end! But it mostly matched the output.
+
+4. First and foremost, I learned I should have started this on day one. Getting started often is the hardest step, and I should have taken it as soon as possible.
+
+I was surprised to learn how straightforward applying these concepts to code were. Even if it took me embarrassingly long to carry out, the extra time I took on it will make it unlikely that I'll forget these concepts soon.
+
+5. A BST would be great for adding driver's licenses to a DMV/RMV's database. Only a fraction of a percent are added or taken off daily. There are millions of people with licenses already. Most of those being added are turning 16, and of 16 year olds, only 1/365 will typically be there on a given day (because birthdays tend to be fairly evenly and randomly distributed across a year).
+
+The few being removed are because of age, death, and OUIs. Likely more factors, but these are small potatoes even compared to these tater tots.
+
+BSTs are great for a data set that does not change very much or very often. This is why it would be great for the RMV. 
+
+The advantage is if using a self-balancing structure, like a AVL or RB tree, there is an upper bound of O(Logn) for search and insertion/deletion. It is an extremely efficient sorting algorithm for this purpose.

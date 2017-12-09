@@ -370,10 +370,10 @@ The number of comparisons made for this succeesful search is 17
 
 Sucessful Search!!!
 ISBN: 9723703661
-Title: Vida conversável (Peninsulares)
+Title: Vida conversÃ¡vel (Peninsulares)
 Author: Agostinho da Silva
 Year Published: 1994
-Publisher: Assírio &amp; Alvim
+Publisher: AssÃ­rio &amp; Alvim
 The number of comparisons made for this succeesful search is 18
 
 

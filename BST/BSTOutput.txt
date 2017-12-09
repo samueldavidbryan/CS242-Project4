@@ -370,132 +370,132 @@ The number of comparisons made for this succeesful search is 32
 
 Sucessful Search!!!
 ISBN: 9723703661
-Title: Vida conversável (Peninsulares)
+Title: Vida conversÃ¡vel (Peninsulares)
 Author: Agostinho da Silva
 Year Published: 1994
-Publisher: Assírio &amp; Alvim
+Publisher: AssÃ­rio &amp; Alvim
 The number of comparisons made for this succeesful search is 26
 
 
 There is no book with ISBN 0001010596
-The number of comparisons made for this unsucceesful search is 7
+The number of comparisons made for this unsuccessful search is 7
 
 There is no book with ISBN 0061030898
-The number of comparisons made for this unsucceesful search is 15
+The number of comparisons made for this unsuccessful search is 15
 
 There is no book with ISBN 0140350561
-The number of comparisons made for this unsucceesful search is 20
+The number of comparisons made for this unsuccessful search is 20
 
 There is no book with ISBN 0310361121
-The number of comparisons made for this unsucceesful search is 19
+The number of comparisons made for this unsuccessful search is 19
 
 There is no book with ISBN 0324042601
-The number of comparisons made for this unsucceesful search is 18
+The number of comparisons made for this unsuccessful search is 18
 
 There is no book with ISBN 0349109501
-The number of comparisons made for this unsucceesful search is 19
+The number of comparisons made for this unsuccessful search is 19
 
 There is no book with ISBN 0380008962
-The number of comparisons made for this unsucceesful search is 23
+The number of comparisons made for this unsuccessful search is 23
 
 There is no book with ISBN 0385507959
-The number of comparisons made for this unsucceesful search is 18
+The number of comparisons made for this unsuccessful search is 18
 
 There is no book with ISBN 0425048401
-The number of comparisons made for this unsucceesful search is 21
+The number of comparisons made for this unsuccessful search is 21
 
 There is no book with ISBN 0440236761
-The number of comparisons made for this unsucceesful search is 21
+The number of comparisons made for this unsuccessful search is 21
 
 There is no book with ISBN 0446679187
-The number of comparisons made for this unsucceesful search is 23
+The number of comparisons made for this unsuccessful search is 23
 
 There is no book with ISBN 0451402779
-The number of comparisons made for this unsucceesful search is 25
+The number of comparisons made for this unsuccessful search is 25
 
 There is no book with ISBN 0517708243
-The number of comparisons made for this unsucceesful search is 24
+The number of comparisons made for this unsuccessful search is 24
 
 There is no book with ISBN 0553285544
-The number of comparisons made for this unsucceesful search is 21
+The number of comparisons made for this unsuccessful search is 21
 
 There is no book with ISBN 0590457421
-The number of comparisons made for this unsucceesful search is 28
+The number of comparisons made for this unsuccessful search is 28
 
 There is no book with ISBN 0671534311
-The number of comparisons made for this unsucceesful search is 27
+The number of comparisons made for this unsuccessful search is 27
 
 There is no book with ISBN 0679723777
-The number of comparisons made for this unsucceesful search is 30
+The number of comparisons made for this unsuccessful search is 30
 
 There is no book with ISBN 0709167719
-The number of comparisons made for this unsucceesful search is 32
+The number of comparisons made for this unsuccessful search is 32
 
 There is no book with ISBN 0752858901
-The number of comparisons made for this unsucceesful search is 23
+The number of comparisons made for this unsuccessful search is 23
 
 There is no book with ISBN 0801981019
-The number of comparisons made for this unsucceesful search is 20
+The number of comparisons made for this unsuccessful search is 20
 
 There is no book with ISBN 0812966651
-The number of comparisons made for this unsucceesful search is 17
+The number of comparisons made for this unsuccessful search is 17
 
 There is no book with ISBN 0843945429
-The number of comparisons made for this unsucceesful search is 28
+The number of comparisons made for this unsuccessful search is 28
 
 There is no book with ISBN 0884042084
-The number of comparisons made for this unsucceesful search is 18
+The number of comparisons made for this unsuccessful search is 18
 
 There is no book with ISBN 0913990793
-The number of comparisons made for this unsucceesful search is 19
+The number of comparisons made for this unsuccessful search is 19
 
 There is no book with ISBN 1401300592
-The number of comparisons made for this unsucceesful search is 26
+The number of comparisons made for this unsuccessful search is 26
 
 There is no book with ISBN 1564138201
-The number of comparisons made for this unsucceesful search is 32
+The number of comparisons made for this unsuccessful search is 32
 
 There is no book with ISBN 1860463219
-The number of comparisons made for this unsucceesful search is 20
+The number of comparisons made for this unsuccessful search is 20
 
 There is no book with ISBN 1894048445
-The number of comparisons made for this unsucceesful search is 28
+The number of comparisons made for this unsuccessful search is 28
 
 There is no book with ISBN 2070409819
-The number of comparisons made for this unsucceesful search is 28
+The number of comparisons made for this unsuccessful search is 28
 
 There is no book with ISBN 2266085109
-The number of comparisons made for this unsucceesful search is 20
+The number of comparisons made for this unsuccessful search is 20
 
 There is no book with ISBN 2843234167
-The number of comparisons made for this unsucceesful search is 31
+The number of comparisons made for this unsuccessful search is 31
 
 There is no book with ISBN 3150079119
-The number of comparisons made for this unsucceesful search is 30
+The number of comparisons made for this unsuccessful search is 30
 
 There is no book with ISBN 3401025741
-The number of comparisons made for this unsucceesful search is 24
+The number of comparisons made for this unsuccessful search is 24
 
 There is no book with ISBN 3442450552
-The number of comparisons made for this unsucceesful search is 28
+The number of comparisons made for this unsuccessful search is 28
 
 There is no book with ISBN 3499232387
-The number of comparisons made for this unsucceesful search is 26
+The number of comparisons made for this unsuccessful search is 26
 
 There is no book with ISBN 3895082446
-The number of comparisons made for this unsucceesful search is 39
+The number of comparisons made for this unsuccessful search is 39
 
 There is no book with ISBN 8435016357
-The number of comparisons made for this unsucceesful search is 25
+The number of comparisons made for this unsuccessful search is 25
 
 There is no book with ISBN 8811666419
-The number of comparisons made for this unsucceesful search is 32
+The number of comparisons made for this unsuccessful search is 32
 
 There is no book with ISBN 9723703901
-The number of comparisons made for this unsucceesful search is 26
+The number of comparisons made for this unsuccessful search is 26
 
 There is no book with ISBN 1585670848
-The number of comparisons made for this unsucceesful search is 30
+The number of comparisons made for this unsuccessful search is 30
 
 There were 40 successful searches
 The average number of comparisons for a successful search is 23.23
